@@ -1,1 +1,14 @@
-# Chaitanya-14.github.io
+# Data Scientist 
+
+### Educaiton
+Instrumentation , Machine vision
+
+
+### Work Experience 
+
+Fraunhofer IPK 
+Binford Robotics
+
+### Projects
+
+Drones
