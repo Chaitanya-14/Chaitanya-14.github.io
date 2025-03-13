@@ -81,7 +81,9 @@ I am a **Master’s student in Scientific Instrumentation** at **Ernst Abbe Hoch
 ---
 
 ### **💡 Interests:**  
-_"I thrive on challenges and love applying AI to real-world problems! Let's build something amazing together."_  
+ - Computer vision, Robotics & Sensor fusion
+ - Professional development- Reading books and learning new skills.
+ - Technology and innovation autonomous systems development.
 
 ---
 
