@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Buddhavaram Chaitanya Roy  
+#  Buddhavaram Chaitanya Roy  
 ###  Computer Vision | Deep Learning | Robotics | Embedded Systems  
 
 I am a **Master’s student in Scientific Instrumentation** at **Ernst Abbe Hochschule Jena**, passionate about **computer vision, deep learning, and autonomous systems**. Currently, I am working as a **Machine Vision Research Intern at Fraunhofer IPK, Berlin**, where I develop AI-powered solutions for **OCR, object detection, and embedded vision systems**.  
