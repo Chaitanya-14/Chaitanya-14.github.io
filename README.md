@@ -1,64 +1,99 @@
-name: Buddhavaram Chaitanya Roy
-title: Computer Vision | Deep Learning | Robotics | Embedded Systems
-location: Berlin, Germany
-email: bchaitanyaroy@gmail.com
-linkedin: https://www.linkedin.com/in/bchaitanyaroy/
-github: https://github.com/your-github-username
-website: https://your-portfolio-website.com
+# 👋 Hi, I'm Buddhavaram Chaitanya Roy  
+###  Computer Vision | Deep Learning | Robotics | Embedded Systems  
 
-summary: |
-  I am a Master's student in Scientific Instrumentation at Ernst Abbe Hochschule Jena, 
-  with a strong passion for Computer Vision, Deep Learning, and Robotics. My expertise 
-  lies in AI-driven image recognition, embedded systems, and autonomous systems. 
-  Currently, I am working as a Machine Vision Research Intern at Fraunhofer IPK, 
-  developing deep learning models for real-world applications.
+I am a **Master’s student in Scientific Instrumentation** at **Ernst Abbe Hochschule Jena**, passionate about **computer vision, deep learning, and autonomous systems**. Currently, I am working as a **Machine Vision Research Intern at Fraunhofer IPK, Berlin**, where I develop AI-powered solutions for **OCR, object detection, and embedded vision systems**.  
 
-skills:
-  - Computer Vision (OpenCV, PyTorch, TensorFlow)
-  - Deep Learning (CNNs, Object Detection, OCR, One-Shot Learning)
-  - Embedded Systems (Nvidia Jetson, Raspberry Pi, FPGA)
-  - Robotics & Control Systems (ROS, SLAM, Motion Planning)
-  - Programming (Python, C++, MATLAB)
-  - Data Processing & Visualization (Pandas, NumPy, Matplotlib)
+🔭 **My interests include:**  
+✔ AI-powered **sensor fusion & robotics**  
+✔ **Deep learning for perception & automation**  
+✔ **SLAM, motion planning & autonomous navigation**  
+✔ **Embedded systems & edge AI (Nvidia Jetson, Raspberry Pi)**  
 
-experience:
-  - role: Machine Vision Research Intern
-    company: Fraunhofer IPK, Berlin
-    duration: 11.2024 – Present
-    responsibilities:
-      - Developed AI models for OCR on surgical instruments using PyTorch
-      - Implemented deep learning models on Nvidia Jetson Orin, optimized for real-time performance
-      - Designed PCB circuits for lighting optimization and integrated ultrasonic sensors
+---
 
-  - role: UAV Systems Engineer Trainee (Research Internship)
-    company: Binford Research Labs Pvt Ltd, Hyderabad
-    duration: 03.2021 – 03.2022
-    responsibilities:
-      - Developed control algorithms for UAVs, enhancing flight stability
-      - Designed Lidar & ultrasonic sensor-based obstacle avoidance circuits
-      - Integrated ROS with UAVs for autonomous navigation
+## 🔥 **Skills & Technologies**
+### **Programming & AI Frameworks:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+✔ **AI & ML:** Deep Learning, CNNs, Object Detection, OCR  
+✔ **Embedded Systems:** Nvidia Jetson, Raspberry Pi, FPGA  
+✔ **Robotics:** SLAM, ROS, Motion Planning  
 
-  - role: Project Intern
-    company: Skill Lync, Hybrid, Hyderabad
-    duration: 05.2021 – 06.2021
-    responsibilities:
-      - Developed Electric Vehicle simulations using MATLAB & Simulink
-      - Created e-learning content on MATLAB for EV systems
+---
 
-projects:
-  - title: Real-Time Object Detection and Tracking on UAVs
-    description: |
-      Developed a computer vision pipeline for real-time object detection 
-      and tracking using UAVs. Implemented YOLO and DeepSORT for accurate tracking.
-    technologies: Python, OpenCV, TensorFlow, ROS, Nvidia Jetson
+## 📌 **Work Experience**
+### **🔹 Machine Vision R&D Intern | Fraunhofer IPK, Berlin** _(11.2024 – Present)_  
+✔ Developed AI models for **OCR on surgical instruments** using **PyTorch**  
+✔ Deployed and optimized models on **Nvidia Jetson Orin** for **real-time edge AI processing**  
+✔ Designed **PCB circuits** to optimize lighting conditions for better **computer vision accuracy**  
+✔ Integrated **ultrasonic sensors** for precise **instrument distance measurement**  
 
-  - title: AI-Powered OCR for Surgical Instrument Tracking
-    description: |
-      Implemented deep learning models to recognize and track Data Matrix codes on 
-      surgical instruments using PyTorch. Deployed the system on embedded devices.
-    technologies: Python, PyTorch, OpenCV, Nvidia Jetson
+### **🔹 UAV Systems Engineer Trainee | Binford Research Labs** _(03.2021 – 03.2022)_  
+✔ Developed **PID control algorithms** for UAVs to enhance **flight stability**  
+✔ Integrated **LiDAR & ultrasonic sensors** for **autonomous obstacle avoidance**  
+✔ Implemented **computer vision-based object tracking** using OpenCV & Python  
 
-  - title: IoT-Based Air Pollution Monitoring with UAVs
-    description: |
-      Designed and developed an IoT-based air quality monitoring system mounted on drones. 
-      Used PM sensors
+### **🔹 Project Intern | Skill Lync** _(05.2021 – 06.2021)_  
+✔ Built **Electric Vehicle simulations** using **MATLAB & Simulink**  
+✔ Developed **e-learning content on MATLAB for EV systems**  
+
+---
+
+## 🚀 **Notable Projects**
+### **🛸 Real-Time Object Detection & Tracking on UAVs**  
+✔ Used **YOLO + DeepSORT** for real-time tracking in UAV surveillance  
+✔ Integrated with **ROS** for real-time streaming & target detection  
+✔ Optimized deployment on **Nvidia Jetson for onboard processing**  
+
+### **📷 AI-Powered OCR for Surgical Instrument Tracking**  
+✔ Trained **deep learning models** to detect **Data Matrix codes on instruments**  
+✔ Implemented on **Jetson Orin + Ubuntu Linux** for **real-time processing**  
+✔ Designed **custom lighting circuits** for better detection accuracy  
+
+### **🌍 IoT-Based Air Pollution Monitoring with UAVs**  
+✔ Developed an **IoT-based sensor system** for air quality monitoring  
+✔ Integrated **PM sensors + NodeMCU** for **real-time data collection**  
+✔ Transmitted data to a **cloud-based dashboard** for analysis  
+
+---
+
+## 🎓 **Education**
+📌 **Master of Science in Scientific Instrumentation**  
+**📍Ernst Abbe Hochschule Jena, Germany** _(07.2022 – Present)_  
+✔ Focus: **Computer Vision, Control Systems, Embedded AI**  
+✔ Grade: **2.75**  
+
+📌 **Bachelor of Engineering in Electronics & Instrumentation**  
+**📍Muffakham Jah College of Engineering & Technology, India** _(06.2018 – 08.2022)_  
+✔ Focus: **Power Electronics, PCB Design, AI for Industrial Automation**  
+✔ Grade: **1.50**  
+
+---
+
+## 📜 **Certifications & Achievements**
+✔ **Machine Learning & Deep Learning Specialization** _(Coursera)_  
+✔ **Advanced Computer Vision with PyTorch** _(Udacity)_  
+✔ **ROS for Robotics & SLAM** _(EdX)_  
+
+---
+
+## 📫 **Let's Connect!**
+📧 **Email:** [bchaitanyaroy@gmail.com](mailto:bchaitanyaroy@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/bchaitanyaroy](https://www.linkedin.com/in/bchaitanyaroy/)  
+🐍 **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)  
+🌐 **Website/Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)  
+
+---
+
+### **💡 Fun Fact:**  
+_"I thrive on challenges and love applying AI to real-world problems! Let's build something amazing together."_  
+
+---
+
+### ✅ **How to Use This?**
+1. **Create a new
+
