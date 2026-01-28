@@ -76,7 +76,6 @@ I am a **Master’s student in Scientific Instrumentation** at **Ernst Abbe Hoch
 📧 **Email:** [bchaitanyaroy@gmail.com](mailto:bchaitanyaroy@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/chaitanya-roy](https://www.linkedin.com/in/chaitanya-roy/)  
 🐍 **GitHub:** [github.com/your-github-username](https://github.com/Chaitanya-14)  
-🌐 **Website/Portfolio:** [your-portfolio-website.com](https://chaitanya-14.github.io/))  
 
 ---
 
