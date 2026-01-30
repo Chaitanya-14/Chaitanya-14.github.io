@@ -1,88 +1,74 @@
-#  Buddhavaram Chaitanya Roy  
-###  Computer Vision | Deep Learning | Robotics | Embedded Systems  
+# Hi there, I'm Chaitanya Roy Buddhavaram 👋
 
-I am a **Master’s student in Scientific Instrumentation** at **Ernst Abbe Hochschule Jena**, passionate about **computer vision, deep learning, and autonomous systems**. Currently, I am working as a **Machine Vision Research Intern at Fraunhofer IPK, Berlin**, where I develop AI-powered solutions for **OCR, object detection, and embedded vision systems**.  
+### 🚀 Aspiring VLSI Engineer | Electronics & Instrumentation Background
+**RTL Design | Design Verification | Ex-Computer Vision Engineer**
 
-🔭 **My interests include:**  
-> AI-powered **sensor fusion & robotics**  
-> **Deep learning for perception & automation**  
-> **Embedded systems & edge AI (Nvidia Jetson, Raspberry Pi)**  
+I am an Electronics Engineer pivoting from **Computer Vision** to **ASIC Design & Verification**. My background in optimizing AI models for embedded chips (Nvidia Orin) gave me a unique "Software-Aware Hardware" perspective. Now, I leverage my strong **Python/Algorithm** skills to build robust verification environments and efficient RTL designs.
 
 ---
 
-## 🔥 **Skills & Technologies**
-### **Programming & AI Frameworks:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
->_ **AI & ML:** Deep Learning, CNNs, Object Detection, OCR  
->_ **Embedded Systems:** Nvidia Jetson, Raspberry Pi
+### 🛠️ Tech Stack & Tools
 
-
----
-
-## 📌 **Work Experience**
-### **🔹 Machine Vision R&D Intern | Fraunhofer IPK, Berlin** _(11.2024 – Present)_  
->_ Researched and fine-tuned **deep learning models** to improve **OCR accuracy** for **surgical instruments**  
->_ Worked with **Allied Vision and Basler cameras** for **data acquisition & preprocessing**  
->_ Developed an algorithm to **detect and decode Data Matrix codes** for instrument tracking  
->_ Optimized **lighting conditions & ultrasonic sensors** for **enhanced object recognition** 
-
-### **🔹 UAV Systems Engineer Trainee | Binford Research Labs** _(03.2021 – 03.2022)_  
->_ Developed and tested **control algorithms** for **UAV flight stability**  
->_ Integrated **LiDAR & ultrasonic sensors** for **autonomous obstacle avoidance**  
->_ Implemented **ROS-based robotic arm control for UAV payload operations**  
->_ Designed **PCB circuits for battery monitoring & sensor integration**  
-
-### **🔹 Project Intern | Skill Lync** _(05.2021 – 06.2021)_  
->_ Built **Electric Vehicle simulations** using **MATLAB & Simulink**  
->_ Developed **e-learning content on MATLAB for EV systems**  
+| Domain | Skills & Technologies |
+| :--- | :--- |
+| **Hardware Design** | **Verilog HDL**, Digital Logic, Finite State Machines (FSM), CMOS Logic |
+| **Verification** | **SystemVerilog**, **UVM** (Learning), **Cocotb**, Functional Verification |
+| **Scripting & SW** | **Python** (Advanced), **Perl**, C++, TCL, Linux (Bash) |
+| **EDA Tools** | ModelSim/Questa, Xilinx Vivado, GTKWave, Synopsys Tools |
+| **Protocols** | UART, SPI, I2C, APB (In Progress) |
 
 ---
 
-## 🚀 **Projects**
-### **🛸 Real-Time Object Detection & Tracking on UAVs**  
->_ Used **YOLO + DeepSORT** for **real-time target tracking in UAV surveillance**  
->_ Integrated with **ROS** for **real-time streaming & detection**  
->_ Optimized deployment on **Nvidia Jetson for onboard processing**  
-
-### **📷 AI-Powered OCR for Surgical Instrument Tracking**  
->_ Trained **deep learning models** to detect **Data Matrix codes on instruments**  
->_ Implemented on **Jetson Orin + Ubuntu Linux** for **real-time inference**  
->_ Designed **custom lighting circuits** for better OCR accuracy  
-
-### **🌍 IoT-Based Air Pollution Monitoring with UAVs**  
->_ Designed an **IoT-based air quality monitoring system** using **PM sensors + NodeMCU**  
->_ Integrated sensors with a **mobile app for real-time monitoring**  
->_ Developed a dashboard for **data visualization & analysis**  
+### 🔭 Current Status
+**Trainee, Advanced ASIC Design & Verification @ Maven Silicon**
+* Focusing on **Front-end VLSI Design** (RTL) and **Verification**.
+* Bridging the gap between High-Level Software (Python) and Low-Level Hardware (Verilog).
 
 ---
 
-## 🎓 **Education**
-📌 **Master of Science in Scientific Instrumentation**  
-**📍Ernst Abbe Hochschule Jena, Germany** _(07.2022 – Present)_  
->_ Focus: **Computer Vision, Control Systems, Embedded AI**  
->_ Grade: **2.75**  
+### 📂 Featured Projects (VLSI & Embedded)
 
-📌 **Bachelor of Engineering in Electronics & Instrumentation**  
-**📍Muffakham Jah College of Engineering & Technology, India** _(06.2018 – 08.2022)_  
->_ Focus: **Power Electronics, PCB Design, AI for Industrial Automation**  
->_ Grade: **1.50**  
+#### 🔹 [VLSI-Verilog-Modules](https://github.com/your-username/repo-link) *(New!)*
+*Collection of digital circuits designed and verified from scratch.*
+* **4-Bit Ripple Carry Adder:** Structural modeling with GTKWave timing analysis.
+* **Synchronous FIFO:** Implemented memory arrays with full/empty flag logic.
+* **FSM Controllers:** Mealy/Moore machines for sequence detection.
 
----
+#### 🔹 [AI-Hardware-Optimization](https://github.com/your-username/repo-link) *(Enamentis Experience)*
+* **Objective:** Deployment of OCR models on **Nvidia Orin** SoCs.
+* **Hardware Angle:** Used **TensorRT** and **Model Pruning** to fit complex algorithms into strict power and memory constraints.
+* **Stack:** Python, C++, CUDA, Linux.
 
-## 📫 **Let's Connect!**
-📧 **Email:** [bchaitanyaroy@gmail.com](mailto:bchaitanyaroy@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/chaitanya-roy](https://www.linkedin.com/in/chaitanya-roy/)  
-🐍 **GitHub:** [github.com/your-github-username](https://github.com/Chaitanya-14)  
-
----
-
-### **💡 Interests:**  
- - Computer vision, Robotics & Sensor fusion
- - Professional development- Reading books and learning new skills.
- - Technology and innovation autonomous systems development.
+#### 🔹 [UAV-System-Integration](https://github.com/your-username/repo-link) *(Binford Labs)*
+* **Objective:** End-to-end architecture of Autonomous Aerial Vehicles.
+* **Hardware Angle:** Interfaced Lidar/GPS via **UART/I2C protocols** and calibrated PID controllers for flight stability.
 
 ---
 
+### 💼 Professional Experience
+
+**🔹 ASIC Design & Verification Trainee | Maven Silicon** *(Dec 2025 – Present)*
+* Writing clean, synthesizable **Verilog** code for combinational/sequential logic.
+* Developing **Perl/Python scripts** to automate EDA tool workflows.
+
+**🔹 Working Student - Edge AI | Enamentis GmbH** *(Aug 2025 – Present)*
+* Optimizing Deep Learning models for **Embedded Hardware (Nvidia Orin)**.
+* Gained insight into hardware resource management (Latency vs. Power trade-offs).
+
+**🔹 R&D Intern | Fraunhofer IPK** *(Nov 2024 – Mar 2025)*
+* Developed embedded vision solutions for industrial automation.
+
+**🔹 UAV Systems Engineer | Binford Research Labs** *(Mar 2021 – Jan 2022)*
+* Hands-on experience with **Sensor Integration** and **Communication Protocols**.
+
+---
+
+### 🎓 Education
+* **M.Sc. Scientific Instrumentation** | Ernst Abbe Hochschule Jena, Germany
+* **B.E. Electronics & Instrumentation** | Muffakham Jah College, India
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/chaitanya-roy](https://www.linkedin.com/in/chaitanya-roy)
+* **Email:** bchaitanyaroy@gmail.com
